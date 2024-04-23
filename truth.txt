@@ -1,0 +1,9 @@
+hire yourself int
+	buy int var1 0
+	mug var1
+
+	trip i 1
+		say var1
+		subtract i i var1
+	stop triping
+pay 0

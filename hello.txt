@@ -1,0 +1,3 @@
+hire yourself int
+	say "Hello, World!"
+pay 0
